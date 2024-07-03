@@ -1,0 +1,17 @@
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB\MultiDimensionaArrayApp\bin\Debug\net7.0\MultiDimensionaArrayApp.exe
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB\MultiDimensionaArrayApp\bin\Debug\net7.0\MultiDimensionaArrayApp.deps.json
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB\MultiDimensionaArrayApp\bin\Debug\net7.0\MultiDimensionaArrayApp.runtimeconfig.json
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB\MultiDimensionaArrayApp\bin\Debug\net7.0\MultiDimensionaArrayApp.dll
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB\MultiDimensionaArrayApp\bin\Debug\net7.0\MultiDimensionaArrayApp.pdb
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB\MultiDimensionaArrayApp\obj\Debug\net7.0\MultiDimensionaArrayApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB\MultiDimensionaArrayApp\obj\Debug\net7.0\MultiDimensionaArrayApp.AssemblyInfoInputs.cache
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB\MultiDimensionaArrayApp\obj\Debug\net7.0\MultiDimensionaArrayApp.AssemblyInfo.cs
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB\MultiDimensionaArrayApp\obj\Debug\net7.0\MultiDimensionaArrayApp.csproj.CoreCompileInputs.cache
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB\MultiDimensionaArrayApp\obj\Debug\net7.0\MultiDimensionaArrayApp.dll
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB\MultiDimensionaArrayApp\obj\Debug\net7.0\refint\MultiDimensionaArrayApp.dll
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB\MultiDimensionaArrayApp\obj\Debug\net7.0\MultiDimensionaArrayApp.pdb
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB\MultiDimensionaArrayApp\obj\Debug\net7.0\MultiDimensionaArrayApp.genruntimeconfig.cache
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB\MultiDimensionaArrayApp\obj\Debug\net7.0\ref\MultiDimensionaArrayApp.dll
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB_Array\MultiDimensionaArrayApp\obj\Debug\net7.0\MultiDimensionaArrayApp.dll
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB_Array\MultiDimensionaArrayApp\obj\Debug\net7.0\refint\MultiDimensionaArrayApp.dll
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB_Array\MultiDimensionaArrayApp\obj\Debug\net7.0\MultiDimensionaArrayApp.pdb

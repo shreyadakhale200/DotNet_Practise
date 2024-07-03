@@ -1,0 +1,14 @@
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB\ArrayApplication\bin\Debug\net7.0\ArrayApplication.exe
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB\ArrayApplication\bin\Debug\net7.0\ArrayApplication.deps.json
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB\ArrayApplication\bin\Debug\net7.0\ArrayApplication.runtimeconfig.json
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB\ArrayApplication\bin\Debug\net7.0\ArrayApplication.dll
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB\ArrayApplication\bin\Debug\net7.0\ArrayApplication.pdb
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB\ArrayApplication\obj\Debug\net7.0\ArrayApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB\ArrayApplication\obj\Debug\net7.0\ArrayApplication.AssemblyInfoInputs.cache
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB\ArrayApplication\obj\Debug\net7.0\ArrayApplication.AssemblyInfo.cs
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB\ArrayApplication\obj\Debug\net7.0\ArrayApplication.csproj.CoreCompileInputs.cache
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB\ArrayApplication\obj\Debug\net7.0\ArrayApplication.dll
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB\ArrayApplication\obj\Debug\net7.0\refint\ArrayApplication.dll
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB\ArrayApplication\obj\Debug\net7.0\ArrayApplication.pdb
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB\ArrayApplication\obj\Debug\net7.0\ArrayApplication.genruntimeconfig.cache
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB\ArrayApplication\obj\Debug\net7.0\ref\ArrayApplication.dll

@@ -1,0 +1,14 @@
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB_Array\JaggedArrayApp\JaggedArrayApp\bin\Debug\net8.0\JaggedArrayApp.exe
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB_Array\JaggedArrayApp\JaggedArrayApp\bin\Debug\net8.0\JaggedArrayApp.deps.json
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB_Array\JaggedArrayApp\JaggedArrayApp\bin\Debug\net8.0\JaggedArrayApp.runtimeconfig.json
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB_Array\JaggedArrayApp\JaggedArrayApp\bin\Debug\net8.0\JaggedArrayApp.dll
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB_Array\JaggedArrayApp\JaggedArrayApp\bin\Debug\net8.0\JaggedArrayApp.pdb
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB_Array\JaggedArrayApp\JaggedArrayApp\obj\Debug\net8.0\JaggedArrayApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB_Array\JaggedArrayApp\JaggedArrayApp\obj\Debug\net8.0\JaggedArrayApp.AssemblyInfoInputs.cache
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB_Array\JaggedArrayApp\JaggedArrayApp\obj\Debug\net8.0\JaggedArrayApp.AssemblyInfo.cs
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB_Array\JaggedArrayApp\JaggedArrayApp\obj\Debug\net8.0\JaggedArrayApp.csproj.CoreCompileInputs.cache
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB_Array\JaggedArrayApp\JaggedArrayApp\obj\Debug\net8.0\JaggedArrayApp.dll
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB_Array\JaggedArrayApp\JaggedArrayApp\obj\Debug\net8.0\refint\JaggedArrayApp.dll
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB_Array\JaggedArrayApp\JaggedArrayApp\obj\Debug\net8.0\JaggedArrayApp.pdb
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB_Array\JaggedArrayApp\JaggedArrayApp\obj\Debug\net8.0\JaggedArrayApp.genruntimeconfig.cache
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB_Array\JaggedArrayApp\JaggedArrayApp\obj\Debug\net8.0\ref\JaggedArrayApp.dll

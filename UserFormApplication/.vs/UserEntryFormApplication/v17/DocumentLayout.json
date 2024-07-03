@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CDAC\\DotNet\\DotNet_LAB\\UserFormApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4983522-994F-4C86-944E-C1108DB5C42C}|UserEntryForm\\UserEntryForm.csproj|d:\\cdac\\dotnet\\dotnet_lab\\userformapplication\\userentryform\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4983522-994F-4C86-944E-C1108DB5C42C}|UserEntryForm\\UserEntryForm.csproj|solutionrelative:userentryform\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4983522-994F-4C86-944E-C1108DB5C42C}|UserEntryForm\\UserEntryForm.csproj|d:\\cdac\\dotnet\\dotnet_lab\\userformapplication\\userentryform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4983522-994F-4C86-944E-C1108DB5C42C}|UserEntryForm\\UserEntryForm.csproj|solutionrelative:userentryform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4983522-994F-4C86-944E-C1108DB5C42C}|UserEntryForm\\UserEntryForm.csproj|d:\\cdac\\dotnet\\dotnet_lab\\userformapplication\\userentryform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4983522-994F-4C86-944E-C1108DB5C42C}|UserEntryForm\\UserEntryForm.csproj|solutionrelative:userentryform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "D:\\CDAC\\DotNet\\DotNet_LAB\\UserFormApplication\\UserEntryForm\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "UserEntryForm\\DatabaseConnection.cs",
+              "ToolTip": "D:\\CDAC\\DotNet\\DotNet_LAB\\UserFormApplication\\UserEntryForm\\DatabaseConnection.cs",
+              "RelativeToolTip": "UserEntryForm\\DatabaseConnection.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T18:03:43.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\CDAC\\DotNet\\DotNet_LAB\\UserFormApplication\\UserEntryForm\\Form1.cs",
+              "RelativeDocumentMoniker": "UserEntryForm\\Form1.cs",
+              "ToolTip": "D:\\CDAC\\DotNet\\DotNet_LAB\\UserFormApplication\\UserEntryForm\\Form1.cs",
+              "RelativeToolTip": "UserEntryForm\\Form1.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:53:49.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\CDAC\\DotNet\\DotNet_LAB\\UserFormApplication\\UserEntryForm\\Form1.cs",
+              "RelativeDocumentMoniker": "UserEntryForm\\Form1.cs",
+              "ToolTip": "D:\\CDAC\\DotNet\\DotNet_LAB\\UserFormApplication\\UserEntryForm\\Form1.cs [Design]",
+              "RelativeToolTip": "UserEntryForm\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:36:36.201Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayApplication", "ArrayApplication\ArrayApplication.csproj", "{ECBC9B5B-EE00-419C-A509-65D25100AC79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiDimensionaArrayApp", "MultiDimensionaArrayApp\MultiDimensionaArrayApp.csproj", "{B37B73DC-9A56-473C-AB2F-7D851A72CECE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECBC9B5B-EE00-419C-A509-65D25100AC79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECBC9B5B-EE00-419C-A509-65D25100AC79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECBC9B5B-EE00-419C-A509-65D25100AC79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECBC9B5B-EE00-419C-A509-65D25100AC79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B37B73DC-9A56-473C-AB2F-7D851A72CECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B37B73DC-9A56-473C-AB2F-7D851A72CECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B37B73DC-9A56-473C-AB2F-7D851A72CECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B37B73DC-9A56-473C-AB2F-7D851A72CECE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EE12F5A-8006-4FC5-A9E1-E3B9F5431C8A}
+	EndGlobalSection
+EndGlobal

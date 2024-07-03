@@ -1,0 +1,10 @@
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB_Array\WindowsFormPaintApp\WindowsFormPaintApp\bin\Debug\WindowsFormPaintApp.exe.config
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB_Array\WindowsFormPaintApp\WindowsFormPaintApp\bin\Debug\WindowsFormPaintApp.exe
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB_Array\WindowsFormPaintApp\WindowsFormPaintApp\bin\Debug\WindowsFormPaintApp.pdb
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB_Array\WindowsFormPaintApp\WindowsFormPaintApp\obj\Debug\WindowsFormPaintApp.csproj.AssemblyReference.cache
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB_Array\WindowsFormPaintApp\WindowsFormPaintApp\obj\Debug\WindowsFormPaintApp.Form1.resources
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB_Array\WindowsFormPaintApp\WindowsFormPaintApp\obj\Debug\WindowsFormPaintApp.Properties.Resources.resources
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB_Array\WindowsFormPaintApp\WindowsFormPaintApp\obj\Debug\WindowsFormPaintApp.csproj.GenerateResource.cache
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB_Array\WindowsFormPaintApp\WindowsFormPaintApp\obj\Debug\WindowsFormPaintApp.csproj.CoreCompileInputs.cache
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB_Array\WindowsFormPaintApp\WindowsFormPaintApp\obj\Debug\WindowsFormPaintApp.exe
+D:\CDAC\DotNet\DotNet_LAB\Day4_LAB_Array\WindowsFormPaintApp\WindowsFormPaintApp\obj\Debug\WindowsFormPaintApp.pdb
