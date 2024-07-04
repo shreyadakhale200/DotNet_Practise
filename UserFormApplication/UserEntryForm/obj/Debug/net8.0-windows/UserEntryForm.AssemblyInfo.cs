@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UserEntryForm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0fbe9af19d77b7a734ea9d7d8fc1fb7f5cd150d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("UserEntryForm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UserEntryForm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

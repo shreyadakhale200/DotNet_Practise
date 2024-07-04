@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{E4983522-994F-4C86-944E-C1108DB5C42C}|UserEntryForm\\UserEntryForm.csproj|solutionrelative:userentryform\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4983522-994F-4C86-944E-C1108DB5C42C}|UserEntryForm\\UserEntryForm.csproj|d:\\cdac\\dotnet\\dotnet_lab\\userformapplication\\userentryform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E4983522-994F-4C86-944E-C1108DB5C42C}|UserEntryForm\\UserEntryForm.csproj|D:\\CDAC\\DotNet\\DotNet_LAB\\UserFormApplication\\userentryform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E4983522-994F-4C86-944E-C1108DB5C42C}|UserEntryForm\\UserEntryForm.csproj|solutionrelative:userentryform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "UserEntryForm\\DatabaseConnection.cs",
               "ToolTip": "D:\\CDAC\\DotNet\\DotNet_LAB\\UserFormApplication\\UserEntryForm\\DatabaseConnection.cs",
               "RelativeToolTip": "UserEntryForm\\DatabaseConnection.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB0AAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-03T18:03:43.863Z",
               "EditorCaption": ""
@@ -71,8 +71,7 @@
               "ToolTip": "D:\\CDAC\\DotNet\\DotNet_LAB\\UserFormApplication\\UserEntryForm\\Form1.cs [Design]",
               "RelativeToolTip": "UserEntryForm\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T17:36:36.201Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-07-03T17:36:36.201Z"
             }
           ]
         }

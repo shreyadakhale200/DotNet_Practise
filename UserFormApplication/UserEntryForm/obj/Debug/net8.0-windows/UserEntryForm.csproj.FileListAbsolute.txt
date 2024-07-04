@@ -29,3 +29,4 @@ D:\CDAC\DotNet\DotNet_LAB\UserFormApplication\UserEntryForm\obj\Debug\net8.0-win
 D:\CDAC\DotNet\DotNet_LAB\UserFormApplication\UserEntryForm\obj\Debug\net8.0-windows\UserEntryForm.pdb
 D:\CDAC\DotNet\DotNet_LAB\UserFormApplication\UserEntryForm\obj\Debug\net8.0-windows\UserEntryForm.genruntimeconfig.cache
 D:\CDAC\DotNet\DotNet_LAB\UserFormApplication\UserEntryForm\obj\Debug\net8.0-windows\ref\UserEntryForm.dll
+D:\CDAC\DotNet\DotNet_LAB\UserFormApplication\UserEntryForm\obj\Debug\net8.0-windows\UserEntryForm.sourcelink.json
